@@ -9,22 +9,26 @@ AWS CodePipeline (CI/CD automation)
 Amazon S3 (Static website hosting)
 IAM (Access control)
 GitHub (Source code management)
+
 🔄 Workflow
 Code pushed to GitHub
 CodePipeline detects changes
 Pipeline deploys files to S3
 Website updates automatically
+
 🌐 Live Demo
 
-👉 (Paste your S3 Website URL here)
+👉http://siddesh-cicd-website.s3-website.ap-south-1.amazonaws.com/
 
 🧪 Key Features
+
 Fully automated deployment
 No manual upload needed
 Real-time updates
 Beginner-friendly architecture
 
 🧠 Learnings
+
 Built CI/CD pipeline using AWS
 Integrated GitHub with AWS services
 Managed S3 permissions and hosting
