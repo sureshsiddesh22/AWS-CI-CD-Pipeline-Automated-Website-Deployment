@@ -23,9 +23,6 @@ Fully automated deployment
 No manual upload needed
 Real-time updates
 Beginner-friendly architecture
-📸 Screenshots
-
-(Add screenshots here later)
 
 🧠 Learnings
 Built CI/CD pipeline using AWS
